@@ -4,7 +4,9 @@
 - 💬 Ask me about Linux server, Azure and Web Development. 
 
 ## Find me on
-[Linkedin](www.linkedin.com/in/jivendra-sah)
+[Linkedin](https://linkedin.com/in/jivendra-sah)
+[Codechef](https://www.codechef.com/users/jivendra_sah)
+[Hackerrank](https://www.hackerrank.com/jivendrasah33)
 
 
 
