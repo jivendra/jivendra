@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning CSS, JS, PHP
 - 💬 Ask me about Linux server, Azure and Web Development. 
 
-##Find me on
-[Linkedin](linkedin.com/in/jivendra-sah)
+## Find me on
+[Linkedin](www.linkedin.com/in/jivendra-sah)
 
 
 
