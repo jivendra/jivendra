@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🔭 I’m currently working on my personal website
+- 🌱 I’m currently learning CSS, JS, PHP
+- 💬 Ask me about Linux server, Azure and Web Development. 
+
 
 <!--
 **jivendra/jivendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
