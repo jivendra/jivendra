@@ -1,7 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my personal website
-- 🌱 I’m currently learning CSS, JS, PHP
-- 💬 Ask me about Linux server, Azure and Web Development. 
+- 🔭 I’m currently Building a Full Stack Web project
+- 🌱 I’m currently learning JavaScript and Python
 
 ## Find me on
 [Linkedin](https://linkedin.com/in/jivendra-sah)
