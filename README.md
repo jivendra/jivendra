@@ -1,13 +1,11 @@
 ### Hi there 👋
-- 🔭 I’m currently Building a Full Stack Web project
-- 🌱 I’m currently learning Data Srtuctures and Algorithms
+- 🔭 I Currently work as a Developer Advocate at Vult.
 
 ## My Personal Website
 https://jivendrasah.com
+
 ## Find me on
 [Linkedin](https://linkedin.com/in/jivendra-sah)
-[Codechef](https://www.codechef.com/users/jivendra_sah)
-[Hackerrank](https://www.hackerrank.com/jivendrasah33)
 
 ## Reach out to me
 [Email](mailto:jivendrasah33@gmail.com)
